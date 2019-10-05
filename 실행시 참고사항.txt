@@ -1,0 +1,8 @@
+1. python 3.x 버전 필수
+
+2. python 3.x 환경변수에 있어야 실행가능
+	(커맨드창에서 python 실행시 파이썬 실행 되야함...)
+
+3. Pillow, opencv-python 라이브러리 필수
+	(pip install Pillow 또는 easy_install Pillow)
+	(pip install opencv-python 또는 easy_install opencv-python)
